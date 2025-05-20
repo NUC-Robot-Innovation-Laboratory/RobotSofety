@@ -1,0 +1,19 @@
+启动XShell提示“由于找不到MSVCR110.dll的问题”：
+原因：VC++相关组件缺失
+解决办法：
+1、不要运行压缩包里面的exe，一定要解决出来
+2、一定要先运行“绿化”.bat
+3、如果安装了360，它会自动安装VC++解决这个问题
+4、用DirectX修复工具强力版本
+DirectX_Repair(Enhanced_Edition)
+链接：https://pan.baidu.com/s/1vrbPIaiFj92R82IRbVYOyw?pwd=8888
+
+如果以上搞不定，替代解决办法：
+1、 用FinalShell（免费开源）或者MobaXterm
+FinalShell
+http://www.hostbuf.com/c/131.html
+MobaXterm
+https://msb-netdisk.mashibing.com/share/54426969ac6a425fb0acc4da97f51b1c
+提取码：221661
+2、用Xshell家庭免费版：
+https://www.xshell.com/zh/free-for-home-school/
